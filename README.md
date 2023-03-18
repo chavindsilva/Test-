@@ -3,6 +3,8 @@
 ## //Module 1.3 (Level 2)
 
 ### /Table of Contents (Level 3)
+[/01-Stu_Refresher](01-Stu_Refresher) <br />
+[/03-Stu_Markdown](03-Stu_Markdown) <br />
 
 #### /01-Stu_Refresher
 
